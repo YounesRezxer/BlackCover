@@ -1,0 +1,10 @@
+colorama
+request
+webbrowser
+subprocess
+cryptography.fernet
+Fernet
+platform
+getpass
+ctypes
+win10toast
