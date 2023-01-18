@@ -1,7 +1,5 @@
 # BlackCover V1.0.0
 
-Tool Information Gathering Write With Python.
-
 #Wallpaper
 ![BlackCover](https://s2.uupload.ir/files/mrrobotpostimag01-740x877_b2h6.jpg)
 
