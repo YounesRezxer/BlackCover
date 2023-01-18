@@ -26,6 +26,6 @@ $- python3 blackcover.py
 ![RED EAGLE](https://s2.uupload.ir/files/wallpaper_zpt1.png)
 
 ## Video Tutorial
-Youtube : https://www.youtube.com/@BlackCover
+Youtube : https://www.youtube.com/@Blackamooz
 
 Excellent in its own right !!!
