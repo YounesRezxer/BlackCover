@@ -46,7 +46,7 @@ def infolist1():
 def infolist3():
     time.sleep(0.1)
     url = "www.github.com/YounesRezxer"
-    url_2 = "www.youtube.com/@Blackamooz"
+    url_2 = "www.youtube.com/@codeing_nest"
     webbrowser.open_new(url)
     webbrowser.open_new_tab(url_2)
     time.sleep(1)
