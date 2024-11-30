@@ -54,10 +54,10 @@ def infolist3():
     time.sleep(0.1)
     print(Fore.LIGHTCYAN_EX + "  {" + Fore.LIGHTWHITE_EX + "~" + Fore.LIGHTCYAN_EX + "}" + Fore.LIGHTWHITE_EX + "--Developer : MR.YOUNES\n")
     time.sleep(0.1)
-    print(Fore.LIGHTCYAN_EX + "  {" + Fore.LIGHTWHITE_EX + "~" + Fore.LIGHTCYAN_EX + "}" + Fore.LIGHTWHITE_EX + "--Channle YT : @Blackamooz\n") 
+    print(Fore.LIGHTCYAN_EX + "  {" + Fore.LIGHTWHITE_EX + "~" + Fore.LIGHTCYAN_EX + "}" + Fore.LIGHTWHITE_EX + "--Channle YT : @Codeing_Nest\n") 
     time.sleep(0.1)
     print(Fore.LIGHTCYAN_EX + "  {" + Fore.LIGHTWHITE_EX + "~" + Fore.LIGHTCYAN_EX + "}" + Fore.LIGHTWHITE_EX + "--ID Telegram : @MASTER_YOUNES\n")
     time.sleep(0.1)
-    print(Fore.LIGHTCYAN_EX + "  {" + Fore.LIGHTWHITE_EX + "~" + Fore.LIGHTCYAN_EX + "}" + Fore.LIGHTWHITE_EX + "--Website : Blackamooz.ir . . .\n")
+    print(Fore.LIGHTCYAN_EX + "  {" + Fore.LIGHTWHITE_EX + "~" + Fore.LIGHTCYAN_EX + "}" + Fore.LIGHTWHITE_EX + "--Website : 00000.ir . . .\n")
 
 #------------------------------------------------------------------------------------------------------
