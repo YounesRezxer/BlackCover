@@ -1,11 +1,5 @@
 # BlackCover V1.0.0
 
-
-## PreView
-<pre>
-</pre>
-
-
 ## Operating Systems Tested
 - Kali Linux 2021
 - ubuntu 2023
